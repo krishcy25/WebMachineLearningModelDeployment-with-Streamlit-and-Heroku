@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[16]:
+# In[17]:
 
 
 from pycaret.regression import load_model, predict_model
@@ -19,7 +19,7 @@ def predict(model, input_df):
 def run():
 
     from PIL import Image
-    image = Image.open('logo1.png')
+    image = Image.open('logo1.PNG')
     image_hospital = Image.open('house.jpeg')
 
     st.image(image,use_column_width=False)
