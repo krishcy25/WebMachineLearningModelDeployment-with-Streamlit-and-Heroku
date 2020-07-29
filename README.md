@@ -12,7 +12,7 @@ The screenshot of one of the prediction is provided below:
 
 Step 1: Data files used for training and testing are placed in the directory (train_hp.csv, test_hp.csv)
 
-Step 2: Code to train the model and save/load the model for deployment is included in the notebook "ML_Deployment-House Prices.ipynb"
+Step 2: Code to train the model and save/load the model for deployment is included in the notebook "ML_Deployment-House Prices.ipynb" and saved/loaded model is stored in the form of pickle file as "hp_pyc_deployment_07122020.pkl"
 
 Step 3: Images used for web deployment is included in the form of JPEG or PNG files
 
